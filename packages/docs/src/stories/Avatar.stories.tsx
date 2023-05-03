@@ -6,7 +6,7 @@ export default {
   component: Avatar,
 
   args: {
-    src: 'https:/github.com/ebersonsilva.png',
+    src: 'https://github.com/ebersonsilva.png',
     alt: 'Eberson Silva',
   },
   argTypes: {
