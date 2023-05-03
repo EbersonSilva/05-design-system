@@ -1,0 +1,2 @@
+import{A as t}from"./index-142f5144.js";import"./index-805d49e8.js";import"./iframe-08a81f69.js";import"./index-0d17a1cb.js";import"./jsx-runtime-27c61199.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ebersonsilva.png",alt:"Eberson Silva"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},n=["Primary","CustomTag"];export{p as CustomTag,m as Primary,n as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-a84525a9.js.map
